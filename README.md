@@ -8,4 +8,4 @@ This library always does caching and is a state management alternative for redux
 
 Also, I added timed clean up mechanism inside useEffect in useFetchBooksAndCities hook where basically it waits before making a new API request to reduce the bandwidth of that API
 
-To test this project pull this repo from GitHub and run npm start
+To test this project pull this repo from GitHub and inside the project run npm install and then npm start
